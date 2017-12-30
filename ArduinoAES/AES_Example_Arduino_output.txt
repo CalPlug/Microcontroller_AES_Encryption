@@ -1,0 +1,11 @@
+Message:0123456789012345
+
+encrypted::êâ—å_!´¼Ä†$cï
+
+encrypted(base64):Ouril+UTDF8htLzEhiRj7wA=
+
+***********Decrypter************
+
+encrypted (returned from Base64)::êâ—å_!´¼Ä†$cï
+
+decrypted:0123456789012345
