@@ -1,0 +1,21 @@
+Code Output:
+
+*******Inputs********
+
+Message: 0123456789012345
+
+Key: 2222222222222222
+
+*******Encrypter********
+
+Resulting ciphertext: :ΩΓùσ_!┤╝─å$c∩
+
+Resulting ciphertext encoded in Base-64: Ouril+UTDF8htLzEhiRj7w==
+
+*******Decrypter********
+
+Encoded base 64 ciphertext: Ouril+UTDF8htLzEhiRj7w==
+
+Resulting un-encode Base-64 ciphertext: :ΩΓùσ_!┤╝─å$c∩
+
+Decrypted Text: 0123456789012345
