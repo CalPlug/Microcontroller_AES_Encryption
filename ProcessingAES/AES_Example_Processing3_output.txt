@@ -1,0 +1,15 @@
+CODE OUTPUT:
+
+Processing 3.0 AES-128 ECB Encryption/Decryption Example
+
+++++++++++++++++++++++++++++++++
+
+Original Message: 0123456789012345
+
+Key: 2222222222222222
+
+==========================
+
+Encrypted String (base 64): Ouril+UTDF8htLzEhiRj71BQobzdbX5wn0lbomiYDpI=
+
+Decrypted String: 0123456789012345
